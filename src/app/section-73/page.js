@@ -7,9 +7,9 @@ export default function Section73() {
 				<br />
 				Section 73 states:{" "}
 				<i>
-					"It empowers a court to direct that a portion of the imprisonment to
-					be served in solitary confinement, provided that the convict is
-					sentenced to rigorous imprisonment."
+					&quot;It empowers a court to direct that a portion of the imprisonment
+					to be served in solitary confinement, provided that the convict is
+					sentenced to rigorous imprisonment.&quot;
 				</i>
 			</p>
 			<p>
